@@ -1,6 +1,6 @@
 # Smart-Christmas
 
-![Image deactivate](Media/box.png)
+![Image deactivate](media/box.png)
 
 Questa è una piccola introduzione ad un controllo remoto per addobbi natalizi, basato su un Fishino Uno, IFTTT, AdafruitIO, Alexa e Google Assistant.
 
@@ -29,7 +29,7 @@ Tutte le informazioni sono presenti sulla rivista [ElettronicaIN #250](https://f
 > [!WARNING]  
 > Presta attenzione! È pericoloso lavorare con la rete elettrica a 220V.
 
-![Image deactivate](Media/wiring.png)
+![Image deactivate](media/wiring.png)
 
 ---
 
