@@ -1,8 +1,8 @@
 /*
- * Smart-Christmas.ino
- * Emanuele Signoretta - Ottobre 2020
- * Basato su un'idea di Adafruit.com - https://github.com/adafruit/Adafruit_MQTT_Library
- */
+   Smart-Christmas.ino
+   Emanuele Signoretta - Ottobre 2020
+   Basato su un'idea di Adafruit.com - https://github.com/adafruit/Adafruit_MQTT_Library
+*/
 #include <SPI.h>
 #include <Fishino.h>
 #include <Adafruit_MQTT.h>
@@ -28,7 +28,7 @@
 // COMMENTARE O DE-COMMENTARE LA #define SEGUENTE A SECONDA DELLA MODALITÀ RICHIESTA
 //#define STANDALONE_MODE
 
-// here pur SSID of your network
+// here put SSID of your network
 // inserire qui lo SSID della rete WiFi
 #define MY_SSID  ""
 
